@@ -2,7 +2,7 @@
 
 Price Tracker is a dynamic e-commerce product scraping site developed using Next.js and Bright Data's webunlocker. The platform is designed to empower users with informed purchasing decisions by providing real-time alerts on product price drops . The entire system is orchestrated through automated cron jobs to ensure up-to-date data.
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - **Next.js:** A React framework for building server-rendered applications.
 - **Bright Data:** Empowering web data collection through their webunlocker service.
 - **Cheerio:** A fast, flexible, and lean implementation of core jQuery for server-side scraping.
@@ -11,7 +11,7 @@ Price Tracker is a dynamic e-commerce product scraping site developed using Next
 - **Headless UI:** A set of completely unstyled, fully accessible UI components for React.
 - **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 
-## 🔋 Features
+##  Features
 - **Header with Carousel:** A visually appealing header featuring a carousel to highlight key features and benefits.
 - **Product Scraping:** A user-friendly search bar enabling users to input Amazon product links for seamless scraping.
 - **Scraped Projects:** Displays detailed insights into tracked items, showcasing information on products scraped so far.
@@ -20,7 +20,7 @@ Price Tracker is a dynamic e-commerce product scraping site developed using Next
 - **Email Notifications:** Automated email notifications for various scenarios, such as back-in-stock alerts or lowest price notifications.
 - **Automated Cron Jobs:** Utilizes cron jobs to automate periodic scraping, ensuring data is always up-to-date.
 
-## 🤸 Quick Start
+## Quick Start
 Follow these steps to set up the project locally on your machine:
 
 ### Prerequisites
@@ -31,8 +31,8 @@ Ensure you have the following installed on your machine:
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/adrianhajdin/price-tracker.git
-cd price-tracker
+git clone [git link]
+cd Price_Tracker
 ```
 
 ### Installation
@@ -74,4 +74,4 @@ Open http://localhost:3000 in your browser to view the project.
 - **utils.ts**
 
 
-Happy scraping and tracking with Price Tracker! 🚀
+Happy scraping and tracking with Price Tracker! 
